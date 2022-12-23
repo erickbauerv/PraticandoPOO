@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GVtalentosDesafio01
+namespace Desafio01
 {
     class DadoRPG
     {

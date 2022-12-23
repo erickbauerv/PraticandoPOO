@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GVtalentosDesafio01
+namespace Desafio01
 {
     class Program
     {
