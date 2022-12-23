@@ -3,10 +3,10 @@ Crie uma classe que represente um dado de RPG. O objeto tem apenas um atributo q
 
 ### Desafio 02
 Crie um programa para controlar uma agenda de contatos. O programa principal
-deve apresentar ao usuário um menu com as seguintes opções:
-a. Ver lista completa
-b. Buscar contatos por letra
-c. Adicionar contato
-d. Remover contato
-e. Sair
+deve apresentar ao usuário um menu com as seguintes opções:  
+ a. Ver lista completa  
+ b. Buscar contatos por letra  
+ c. Adicionar contato  
+ d. Remover contato  
+ e. Sair  
 Crie classes para representar a agenda e o contato
