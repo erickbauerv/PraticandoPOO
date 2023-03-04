@@ -21,3 +21,7 @@ Crie uma classe chamada Data que contém atributos para representar ano, mês e 
 ano, mês e dia e outro que receba a data no seguinte formato “dia/mês/ano”. Caso for inserida uma data inválida, todos os atributos devem ser inicializados com -1. A 
 classe também deve ter um método para adicionar dias. Quando o método for chamado, a data deve ser atualizada. A classe também deve fornecer um método para imprimir a 
 data no formato “dia/mês/ano” e outro método que imprime no formato “dia, mês de ano”. Instancie alguns objetos no programa principal para realizar testes.
+
+### Desafio 5 - Classe com as funcionalidades de uma calculadora
+Crie um classe chamada Calculadora. Ela deve oferecer métodos para as operações básicas (soma, subtração, multiplicação e divisão). Na classe Main, crie um menu que
+apresente as funcionalidades da calculadora.
