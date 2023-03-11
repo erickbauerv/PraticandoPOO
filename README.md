@@ -25,3 +25,12 @@ data no formato “dia/mês/ano” e outro método que imprime no formato “dia
 ### Desafio 5 - Classe com as funcionalidades de uma calculadora
 Crie um classe chamada Calculadora. Ela deve oferecer métodos para as operações básicas (soma, subtração, multiplicação e divisão). Na classe Main, crie um menu que
 apresente as funcionalidades da calculadora.
+
+### Desafio 6 - Programa para gerenciamento de turmas
+Uma faculdade convidou você para construir um programa para gerenciamento de turmas. Junto com a solicitação, a faculdade enviou um diagrama simples com a
+especificação das classes desejadas. Lembre de criar um menu para que seja possível o controle da turma. O método de lançamento de notas navega aluno por aluno e o
+usuário insere os valores das notas de cada aluno. Para um aluno ser aprovado, ele deve ter média acima de 6 e o cálculo é feito por meio de média ponderada, onde a
+Nota A tem peso 1 e a Nota B peso 2. A relação dos alunos imprime na tela primeiro os alunos aprovados com suas respectivas notas, e depois os reprovados. Coloque uma
+identificação para distinguir as informações.
+
+![image](https://user-images.githubusercontent.com/88293617/224508138-d95aed4d-76a7-4030-9d3c-8bbed26bb6c8.png)
