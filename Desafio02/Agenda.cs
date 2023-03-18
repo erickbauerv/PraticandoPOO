@@ -45,7 +45,7 @@ namespace Desafio02
             string desejaExcluir;
             Contato contato = this.ListaDeContatos.FirstOrDefault(contato => contato.Nome == filtro);
 
-            Console.WriteLine($"O contato que será removido é o {contato.Nome} do número {contato.Numero}\ntem certeze que deseja excluir? digite 1 para sim e 2 para não...");
+            Console.WriteLine($"O contato que será removido é o {contato.Nome} do número {contato.Numero}\ntem certeza que deseja excluir? digite 1 para sim e 2 para não...");
             desejaExcluir = Console.ReadLine();
             switch (desejaExcluir)
             {
