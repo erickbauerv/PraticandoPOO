@@ -34,3 +34,9 @@ Nota A tem peso 1 e a Nota B peso 2. A relação dos alunos imprime na tela prim
 identificação para distinguir as informações.
 
 ![image](https://user-images.githubusercontent.com/88293617/224508138-d95aed4d-76a7-4030-9d3c-8bbed26bb6c8.png)
+
+### Exercício 1 - Praticando classes abstratas e herança
+Implemente a classe Funcionario e crie as propriedades que forem necessárias, a única exigência é a criação de um método para exibição dos dados.
+- Crie as classes AssistenteAdministrativo e AssistenteTecnico que são cargos de funcionários da empresa
+- Sabendo que os assistentes técnicos possuem um bônus salarial, e que os assistentes administrativos possuem um turno (dia ou noite) e um adicional noturno,
+sobrescreva o método de exibição de dados.
